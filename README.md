@@ -54,8 +54,7 @@ Cuando no estoy programando, compito como **jugador internacional de bádminton*
 ## 📊 Estadísticas de GitHub
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iacob04&show_icons=true&theme=dark&hide_border=true&locale=es)
-[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app)]
 
 ---
 
