@@ -60,7 +60,7 @@ Cuando no estoy programando, compito como **jugador internacional de bádminton*
 
 ## 📫 Contacto Directo
 
-- 📧 **Email institucional:** gabriel.iacob2@educa.madrid.org
+- 📧 **Email institucional:** gabriel.iacob@educa.madrid.org
 - 💼 **LinkedIn:** [linkedin.com/in/gabriel-alexandru-iacob-056656398/](https://www.linkedin.com/in/gabriel-alexandru-iacob-056656398/)
 - 📍 **Ubicación:** Madrid, España (disponible para prácticas in-company)
 - 🎓 **Formación actual:** 1º DAM - Desarrollo de Aplicaciones Multiplataforma
