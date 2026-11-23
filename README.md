@@ -22,6 +22,8 @@
 
 Estudiante de **2º DAM** en Madrid. Me centro en **backend con Java y Python**, bases de datos relacionales (**MySQL**: procedimientos, funciones y triggers), embebidas (**SQLite3**) y NoSQL (**MongoDB**, **Redis**), con administración de sistemas **Linux / PowerShell** y desarrollo web (**JavaScript/DOM, HTML, CSS, Bootstrap 5, XML/XSLT**).
 
+En 2º DAM trabajo además **acceso a datos** (JDBC, ficheros, XML/JSON), **programación multiproceso y multihilo**, **TDD**, **apps Android** y **Odoo**.
+
 > 💡 **Busco prácticas FCT con enfoque backend**, donde aplicar y ampliar mis conocimientos en desarrollo de software empresarial.
 
 ---
@@ -32,7 +34,7 @@ Estudiante de **2º DAM** en Madrid. Me centro en **backend con Java y Python**,
 
 **Desarrollo**
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,bootstrap&perline=6" alt="Desarrollo" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,js,html,css,bootstrap&perline=7" alt="Desarrollo" />
 
 **Bases de datos**
 
@@ -40,13 +42,16 @@ Estudiante de **2º DAM** en Madrid. Me centro en **backend con Java y Python**,
 
 **Herramientas y sistemas**
 
-<img src="https://skillicons.dev/icons?i=git,linux,powershell,eclipse&perline=4" alt="Herramientas" />
+<img src="https://skillicons.dev/icons?i=git,linux,powershell,eclipse,docker,androidstudio&perline=6" alt="Herramientas" />
 
 <br/>
 
 <img src="https://img.shields.io/badge/Procedimientos_%26_Triggers-4479A1?style=for-the-badge" alt="Procedimientos y Triggers" />
 <img src="https://img.shields.io/badge/XML_%2F_XSLT-005FAD?style=for-the-badge&logo=xml&logoColor=white" alt="XML / XSLT" />
 <img src="https://img.shields.io/badge/UML-8B4513?style=for-the-badge" alt="UML" />
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="JDBC" />
+<img src="https://img.shields.io/badge/TDD-2EA44F?style=for-the-badge" alt="TDD" />
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
 
 </div>
 
@@ -54,14 +59,34 @@ Estudiante de **2º DAM** en Madrid. Me centro en **backend con Java y Python**,
 
 ## 🚀 Proyectos
 
+### 📦 DAM2: lo que doy en 2º curso
+
+<div align="center">
+<a href="https://github.com/Iacob04/DAM2"><img src="https://img.shields.io/badge/Ver_repositorio-DAM2-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio DAM2" /></a>
+</div>
+
+<br/>
+
+Un repositorio, una carpeta por módulo:
+
+| Módulo | Qué hay dentro | Tecnologías |
+|---|---|---|
+| 🗄️ [**Acceso a Datos**](https://github.com/Iacob04/DAM2/tree/main/Acceso_a%20_Datos) | Proyectos en Eclipse sobre **ficheros** (agenda en JSON y XML), **XML y JSON**, **JDBC con MySQL en Docker** y pool de conexiones (DBCP2). Incluye un examen con datos de Pokédex y un [`pokemondb.sql`](https://github.com/Iacob04/DAM2/blob/main/pokemondb.sql) en la raíz, además de apuntes y boletines. | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JDBC](https://img.shields.io/badge/-JDBC-007396?style=flat-square) ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![JSON](https://img.shields.io/badge/-JSON%20%2F%20XML-000000?style=flat-square&logo=json&logoColor=white) |
+| ⚙️ [**Programación de Servicios y Procesos**](https://github.com/Iacob04/DAM2/tree/main/Programaci%C3%B3n%20de%20Servicios%20y%20Procesos) | Prácticas de **multiproceso** y **multihilo** (Multiprocesos 1 a 3, Práctica MultiHilo III, Prácticas Multiprocesos 2 y 3), con apuntes y boletines de teoría. | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) |
+| 📱 [**Programación Multimedia y Dispositivos Móviles**](https://github.com/Iacob04/DAM2/tree/main/Programaci%C3%B3n%20Multimedia%20y%20Dispositivos%20M%C3%B3viles%20) | Apps Android: **Lights Out**, **Tip Time**, calculadora de bisiestos y temperatura, y cambio de color de fondo. | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) |
+| 🧪 [**Entornos de Desarrollo**](https://github.com/Iacob04/DAM2/tree/main/Entornos) | **Katas y TDD**: Bank Account, FizzBuzz, Manhattan y BirthdayGreeting (con memoria), más un sistema de órdenes bancarias y el ejercicio TelemetrySystem. | ![TDD](https://img.shields.io/badge/-TDD-2EA44F?style=flat-square) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| 🎨 [**Desarrollo de Interfaces**](https://github.com/Iacob04/DAM2/tree/main/Desarrollo_de_Interfaces) | Investigación sobre **UX, UI, usabilidad y accesibilidad** y actividades de **evaluación heurística**. | ![UX/UI](https://img.shields.io/badge/-UX%20%2F%20UI-FF7262?style=flat-square) |
+| 🏢 [**Sistemas de Gestión Empresarial**](https://github.com/Iacob04/DAM2/tree/main/Sistema%20de%20Gesti%C3%B3n%20Empresarial) | Introducción a los sistemas de gestión empresarial, informe sobre **modelos de servicio en la nube** y primeros pasos con **Odoo**. | ![Odoo](https://img.shields.io/badge/-Odoo-714B67?style=flat-square&logo=odoo&logoColor=white) |
+| 🌱 [**Sostenibilidad**](https://github.com/Iacob04/DAM2/tree/main/Sostenibilidad) | Apuntes y actividades de la unidad 1 sobre ASG y sostenibilidad, con una tarea de Visual Thinking. | ![Docs](https://img.shields.io/badge/-Documentación-6E7781?style=flat-square) |
+
+### 📚 Otros repositorios
+
 <!--
-  EDITA las descripciones: están escritas a partir del nombre y lenguaje de cada repo.
-  Lo ideal es poner también la descripción en GitHub (Settings del repo) y fijar los repos en tu perfil.
+  Las descripciones de estos repos están escritas a partir de su nombre y lenguaje, sin abrirlos. Revísalas.
 -->
 
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
-| 📦 [**DAM2**](https://github.com/Iacob04/DAM2) | Trabajos y prácticas de 2º DAM | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | ☕ [**Programacion**](https://github.com/Iacob04/Programacion) | Ejercicios y proyectos de programación | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 | 🐍 [**Python**](https://github.com/Iacob04/Python) | Scripts y ejercicios en Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 | 🗄️ [**Base_de_Datos**](https://github.com/Iacob04/Base_de_Datos) | Modelado y consultas SQL | ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) |
